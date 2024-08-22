@@ -1,0 +1,1 @@
+ E:\\Project_IT\\FlutterShoppingApp\\LanAnh_FashionShop\\.dart_tool\\flutter_build\\97efd89221550091b1916faf139ef208\\native_assets.yaml: 
